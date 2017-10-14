@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rl_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.psyclone.lyricbook.activities.MainActivity">
+    <TextView
+        android:id="@+id/tv_current_artist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:text="Artist"
+        android:textStyle="bold"
+        android:ellipsize="end"
+        android:lines="1"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/tv_current_track"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_below="@id/tv_current_artist"
+        android:text="Track"
+        android:ellipsize="end"
+        android:lines="1"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:textSize="14sp"/>
+    <TextView
+        android:id="@+id/tv_hidden_source"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Source"
+        android:layout_below="@id/tv_current_artist"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:layout_alignParentRight="true"
+        android:visibility="invisible" />
+    <View
+        android:id="@+id/separator"
+        android:layout_below="@id/tv_current_track"
+        android:layout_margin="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="4dp"
+        android:background="@color/colorAccent" />
+    <android.support.v4.widget.NestedScrollView
+        android:id="@+id/sv_lyrics_scroller"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/separator"
+        android:scrollbars="vertical">
+        <TextView
+            android:id="@+id/tv_lyrics"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textIsSelectable="true"
+            android:textSize="16sp"
+            android:layout_marginLeft="@dimen/activity_vertical_margin"
+            android:layout_marginRight="@dimen/activity_vertical_margin"
+            android:paddingBottom="@dimen/activity_vertical_margin" />
+    </android.support.v4.widget.NestedScrollView>
+    <android.support.design.widget.CoordinatorLayout
+        android:id="@+id/cl_snackbar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true">
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab_refresh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|right"
+            android:layout_margin="16dp"
+            android:src="@drawable/ic_fab_refresh"
+            app:rippleColor="#D32F2F"
+            android:onClick="onRefresh" />
+    </android.support.design.widget.CoordinatorLayout>
+</RelativeLayout>

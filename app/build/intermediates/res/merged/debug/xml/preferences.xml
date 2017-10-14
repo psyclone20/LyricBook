@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:key="pref_choose_source"
+        android:title="Preferred lyrics source"
+        android:summary="Select the source you prefer for fetching lyrics"
+        android:entries="@array/lyric_sources"
+        android:entryValues="@array/lyric_sources"
+        android:defaultValue="Automatic" />
+    <SwitchPreference
+        android:key="pref_auto_save"
+        android:title="Automatically save lyrics"
+        android:summary="Lyrics fetched will be automatically saved to your device for offline viewing"
+        android:defaultValue="true" />
+    <SwitchPreference
+        android:key="pref_force_screen_on"
+        android:title="Force screen on"
+        android:summary="Prevent screen from sleeping while lyrics are being viewed"
+        android:defaultValue="false" />
+</PreferenceScreen>

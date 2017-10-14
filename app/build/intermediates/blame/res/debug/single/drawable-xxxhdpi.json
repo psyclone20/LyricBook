@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\adnan_000.SABA-PC\\Desktop\\AndroidStudioProjects\\LyricBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_action_delete.png",
+        "source": "C:\\Users\\adnan_000.SABA-PC\\Desktop\\AndroidStudioProjects\\LyricBook\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\adnan_000.SABA-PC\\Desktop\\AndroidStudioProjects\\LyricBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_fab_refresh.png",
+        "source": "C:\\Users\\adnan_000.SABA-PC\\Desktop\\AndroidStudioProjects\\LyricBook\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_fab_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\adnan_000.SABA-PC\\Desktop\\AndroidStudioProjects\\LyricBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_batch_download.png",
+        "source": "C:\\Users\\adnan_000.SABA-PC\\Desktop\\AndroidStudioProjects\\LyricBook\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_batch_download.png"
+    },
+    {
+        "merged": "C:\\Users\\adnan_000.SABA-PC\\Desktop\\AndroidStudioProjects\\LyricBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_notif_batch_download.png",
+        "source": "C:\\Users\\adnan_000.SABA-PC\\Desktop\\AndroidStudioProjects\\LyricBook\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_notif_batch_download.png"
+    }
+]

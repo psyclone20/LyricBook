@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\adnan_000.SABA-PC\\Desktop\\AndroidStudioProjects\\LyricBook\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\adnan_000.SABA-PC\\.android\\build-cache\\69b6cd7440cd955c9c7d09de21692a9f3ca9a9e8\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LyricBook</string>
+
+    <!-- Global strings -->
+    <string name="source_azlyrics">AZLyrics</string>
+    <string name="source_lyricwiki">LyricWiki</string>
+    <string name="source_auto">Automatic</string>
+
+    <!-- MainActivity strings -->
+    <string name="welcome">Welcome to LyricBook!</string>
+    <string name="instructions">Play a song and tap the button below.</string>
+    <string name="wait">Please wait while the lyrics are fetched...</string>
+    <string name="fetchFail">Sorry! The lyrics to this track couldn\'t be fetched.</string>
+    <string name="noInternet">Uh-oh! Looks like you aren\'t connected to the internet.</string>
+
+    <!-- SavedLyricsActivity strings -->
+    <string name="menu_delete_all">Delete all</string>
+    <string name="menu_batch_download">Download all</string>
+    <string name="no_saved_lyrics">No saved lyrics found</string>
+</resources>

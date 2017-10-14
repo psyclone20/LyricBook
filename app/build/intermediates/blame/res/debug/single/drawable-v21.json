@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\adnan_000.SABA-PC\\Desktop\\AndroidStudioProjects\\LyricBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\adnan_000.SABA-PC\\.android\\build-cache\\6e02b1d27e65b81ea8552211f17b6b9656630c39\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\adnan_000.SABA-PC\\Desktop\\AndroidStudioProjects\\LyricBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\adnan_000.SABA-PC\\.android\\build-cache\\945edf71d73b47caa3f7a1a9c0db20e9a4421c79\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\adnan_000.SABA-PC\\Desktop\\AndroidStudioProjects\\LyricBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\adnan_000.SABA-PC\\.android\\build-cache\\945edf71d73b47caa3f7a1a9c0db20e9a4421c79\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\adnan_000.SABA-PC\\Desktop\\AndroidStudioProjects\\LyricBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\adnan_000.SABA-PC\\.android\\build-cache\\945edf71d73b47caa3f7a1a9c0db20e9a4421c79\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\adnan_000.SABA-PC\\Desktop\\AndroidStudioProjects\\LyricBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\adnan_000.SABA-PC\\.android\\build-cache\\6e02b1d27e65b81ea8552211f17b6b9656630c39\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\adnan_000.SABA-PC\\Desktop\\AndroidStudioProjects\\LyricBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\adnan_000.SABA-PC\\.android\\build-cache\\945edf71d73b47caa3f7a1a9c0db20e9a4421c79\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\adnan_000.SABA-PC\\Desktop\\AndroidStudioProjects\\LyricBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\adnan_000.SABA-PC\\.android\\build-cache\\6e02b1d27e65b81ea8552211f17b6b9656630c39\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\adnan_000.SABA-PC\\Desktop\\AndroidStudioProjects\\LyricBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\adnan_000.SABA-PC\\.android\\build-cache\\6e02b1d27e65b81ea8552211f17b6b9656630c39\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    }
+]
