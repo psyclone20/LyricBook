@@ -4,7 +4,7 @@ Just play a song in your favorite music player, open LyricBook and it'll do the 
 You can also save lyrics to the device for viewing it offline later.
 
 # Screenshots
-![](https://github.com/psyclone20/LyricBook/blob/master/screenshots/main.png) ![](https://github.com/psyclone20/LyricBook/blob/master/screenshots/saved.png) ![](https://github.com/psyclone20/LyricBook/blob/master/screenshots/settings.png)
+<img src="https://github.com/psyclone20/LyricBook/blob/master/screenshots/main.png" width="270" height="486" /> <img src="https://github.com/psyclone20/LyricBook/blob/master/screenshots/saved.png" width="270" height="486" /> <img src="https://github.com/psyclone20/LyricBook/blob/master/screenshots/settings.png" width="270" height="486" />
 
 # Download
 The latest APK can be found **[here](https://goo.gl/GgUkgl)** (supports Android 4.2+)
