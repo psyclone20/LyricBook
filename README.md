@@ -13,3 +13,4 @@ The latest APK can be found **[here](https://goo.gl/GgUkgl)** (supports Android 
 * Guillaume Hachez for QuickLyric
 * Jonathan Hedley for JSoup
 * Roman Nurik for the Android Asset Studio
+* Google for the support libraries
